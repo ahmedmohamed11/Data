@@ -1,4 +1,4 @@
-source "http://rubygems.org"
-gemspec
+# A sample Gemfile
+source "https://rubygems.org"
 
-gem "rake"
+# gem "rails"
