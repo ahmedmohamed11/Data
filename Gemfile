@@ -1,5 +1,4 @@
 source "https://rubygems.org"
+gemspec
 
-gem 'rails'
-gem 'rack'
-gem 'rspec', :require => 'spec'
+gem "rake"
