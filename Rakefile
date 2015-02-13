@@ -2,7 +2,7 @@ require "bundler"
 Bundler.setup
 
 require "rake"
-require "rspec/core"
+require "rspec"
 
 
 RSpec::Core::RakeTask.new("spec") do |spec|
